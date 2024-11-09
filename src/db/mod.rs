@@ -2,5 +2,5 @@
 
 pub mod prelude;
 
-pub mod item;
-pub mod user;
+pub mod items;
+pub mod users;
